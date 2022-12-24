@@ -1,8 +1,5 @@
 # bee-escape
 
-Emily Jeong
-netID: ejeong4
-
 I have included an additional pdf with images showing examples of the gameplay.
 
 How to run program:
